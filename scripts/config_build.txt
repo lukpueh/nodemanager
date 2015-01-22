@@ -5,6 +5,6 @@ DEPENDENCIES/affix/*
 DEPENDENCIES/affix/components/*
 ./*
 DEPENDENCIES/common/*
-DEPENDENCIES/common/utf/*
 # Tests
+test DEPENDENCIES/utf/*
 test tests/*
